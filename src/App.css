@@ -1,0 +1,58 @@
+body{
+    background-color: #3F3E56;
+}
+#mainbox{
+      margin: auto;
+      margin-top: 50px;
+      background-color: blanchedalmond;
+      box-shadow: 2px ;
+      border-radius: 10px;
+      width: fit-content;
+      padding: 2%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+#dateinput{
+     border: 1px solid blue;
+     border: 2px solid black;
+     
+}
+.entries{
+    background-color: #759AAb;
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+    align-items: center;
+    border-radius: 10px;
+}
+.entries label{
+    color: #FAF2A1;
+    font-size: large;
+}
+.entries button{
+    background-color: #453F78;
+    color: #FAF2A1;
+    padding: 10px;
+    border-radius: 10px;
+}
+#content h1{
+    background-color: #453F78;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+}
+.entries input{
+    color: #453F78;
+    font-weight: 700;
+    font-size: large;
+    text-align: center;
+    background-color: #FAF2A1;
+    padding: 5px;
+    border-radius: 5px;
+}
+.buttonsdiv {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
