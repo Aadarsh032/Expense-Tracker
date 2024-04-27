@@ -1,0 +1,25 @@
+#ibutton
+{
+    position: fixed;
+    bottom: 10px;
+    right: 10px; 
+    padding: 10px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7F7FF;
+  
+}
+#insideibutton
+{
+    background-color: #F2D0A4;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bolder;
+}
