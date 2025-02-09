@@ -1,6 +1,9 @@
 body{
     background-color: #3F3E56;
 }
+#subscript_text{
+    font-size: 18px;
+}
 #mainbox{
       margin: auto;
       margin-top: 50px;
