@@ -70,7 +70,7 @@ function App() {
 
   return (
     <div id='mainbox' >
-        <h1>Expense Tracker</h1>
+        <h1>Expense Tracker<sub id='subscript_text'>-By Aadarsh</sub></h1>
         <div id="content" >
            <div className='entries'>
             <label>Date : </label><input id='dateinput' type='date' value={date} onChange={(event)=>setDate(event.target.value)}></input>
