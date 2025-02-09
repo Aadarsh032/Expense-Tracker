@@ -1,5 +1,5 @@
 body{
-    background-color: #3F3E56;
+    background-color: #9883E5;
 }
 #subscript_text{
     font-size: 18px;
@@ -7,7 +7,7 @@ body{
 #mainbox{
       margin: auto;
       margin-top: 50px;
-      background-color: blanchedalmond;
+      background-color: #FCD3DE;
       box-shadow: 2px ;
       border-radius: 10px;
       width: fit-content;
@@ -22,7 +22,7 @@ body{
      
 }
 .entries{
-    background-color: #759AAb;
+    background-color: #72A1E5;
     display: flex;
     flex-direction: column;
     padding: 8px;
@@ -34,13 +34,13 @@ body{
     font-size: large;
 }
 .entries button{
-    background-color: #453F78;
+    background-color: #50C9CE;
     color: #FAF2A1;
     padding: 10px;
     border-radius: 10px;
 }
 #content h1{
-    background-color: #453F78;
+    background-color:#72A1E5;
     padding: 5px;
     border-radius: 10px;
     color: white;
@@ -50,7 +50,7 @@ body{
     font-weight: 700;
     font-size: large;
     text-align: center;
-    background-color: #FAF2A1;
+    background-color:#FCD3DE;
     padding: 5px;
     border-radius: 5px;
 }
